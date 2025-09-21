@@ -21,18 +21,6 @@ Feel free to explore the notebooks to see my approach to solving real-world data
 
 ---
 
-## 🧩 Projects
-
-| Project Name | Description | Tools/Libraries Used |
-|--------------|-------------|---------------------|
-| *Add your project title here* | *Brief summary of what the project is about* | *e.g., pandas, matplotlib, seaborn, scikit-learn* |
-| *Add your project title here* | *Brief summary of what the project is about* | *e.g., numpy, plotly, sklearn* |
-
-> **Note:** Replace this table with your actual project details.  
-> Each notebook contains step-by-step analysis and key takeaways.
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
@@ -53,9 +41,9 @@ Feel free to explore the notebooks to see my approach to solving real-world data
 - Python
 - Jupyter Notebook
 - pandas, numpy
-- matplotlib, seaborn, plotly
-- scikit-learn (for ML projects)
-- [Add any other tools/libraries]
+- matplotlib, seaborn
+- MySQL
+- Microsoft Excel
 
 ---
 
@@ -64,8 +52,8 @@ Feel free to explore the notebooks to see my approach to solving real-world data
 I'm **Suman Das**, a passionate data analyst with a keen eye for uncovering actionable insights from data.  
 This portfolio is a testament to my learning journey and continuous growth in the field of data analytics.
 
-- [LinkedIn](#)  
-- [Email](#)
+- [LinkedIn](https://www.linkedin.com/in/suman-das-4b0348352/)  
+- [Email](mailto:sumandas21122005@gmail.com)
 
 ---
 
